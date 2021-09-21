@@ -33,4 +33,9 @@ class Lab15
   }
 }
   
-  
+ OUTPUT
+ Z:\mca16.java>javac Lab15.java
+
+Z:\mca16.java>java Lab15
+area of rectangle6
+area of square4
